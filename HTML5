@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>Tabelas em HTML - Introdução</title>
+<meta charset="utf-8">
+</head>
+<body>
+
+    <table style="width:50%" border="1">
+        <caption>Agenda de endereço</caption>
+        <th rowspan="4">Amigos </th>
+<th>Nome</th>
+<th>Sobrenome</th>
+<th>Cidade</th>
+<th colspan="2">Endereço</th>
+
+<tr>
+<td>Diego</td>
+<td>Gomes Roberto</td>
+<td>Itapecerica da serra</td>
+<td>rua japão, 43 casa 2</td>
+<td>parque paraiso</td>
+</tr>
+
+<tr>
+<td> Thaysa</td>
+<td>Mayara De Paula</td>
+<td>Cotia</td>
+<td>rua brasil, 142 ap 22</td>
+<td>jardim rio das pedras</td>
+</tr>
+
+<tr>
+<td>Paulo</td>
+<td>Mesquita</td>
+<td>Embu</td>
+<td>rua morumbi, 56</td>
+<td>jardim nisalve</td>
+</tr>
+
+    </table>
+
+</body>
+
+</html>
